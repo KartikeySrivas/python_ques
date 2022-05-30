@@ -1,0 +1,6 @@
+emptydict = dict()
+ emptydict
+{}
+ numdict = dict(I='one', II='two', III='three')
+ numdict
+{'I': 'one', 'II': 'two', 'III': 'three'}
